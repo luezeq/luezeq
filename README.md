@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luezeq
-- 👀 I’m interested in ... sports, especially soccer
+- 👀 I’m interested in ... gaming, sports (especially soccer and tennis)
 - 🌱 I’m currently learning ... about progammation (html,css,js,php,sql)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... luucas.eze@gmail.com
